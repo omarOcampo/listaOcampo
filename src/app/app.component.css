@@ -1,0 +1,25 @@
+.noHay {
+    background-color: #380000;
+    color: #ececf0;
+    width: 29%;
+}
+
+.hay {
+    background-color: green;
+    color: black;
+    width:35%;
+}
+
+li {
+    list-style-type:number;
+    list-style-position: inside;
+    padding: 10px;
+    font-size: 30px;
+    padding-left: 20px;
+    cursor: pointer;
+      
+}
+li:hover {
+    background-color: hsl(0, 0%, 40%);
+    color:#e20a0a
+}
